@@ -1,0 +1,2 @@
+Aplicação de treinamento Git.
+Versão: 1.0
