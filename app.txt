@@ -1,2 +1,2 @@
 Aplicação de treinamento Git.
-Versão: 4.0
+Versão: 5.0
